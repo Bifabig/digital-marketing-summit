@@ -1,5 +1,5 @@
 const showMoreIcon = document.querySelector(
-  '.show-more .material-symbols-outlined'
+  '.show-more .material-symbols-outlined',
 );
 const showMore = document.querySelector('.show-more');
 const speakerList = document.querySelector('.speaker-list');
