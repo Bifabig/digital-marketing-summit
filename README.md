@@ -85,6 +85,7 @@ After you're finished please remove all the comments and instructions!
 
 - **Navbar**
 - **Mobile responsive**
+- **DOM Manipulation**
 
 <!-- > Describe between 1-3 key features of the application. -->
 
@@ -96,7 +97,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- > Add a link to your deployed project. -->
 
-- <a href="https://bifabig.github.io/personal-portfolio-microverse/">Personal Portfolio Live</a>
+- <a href="#">Live Demo</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,6 +106,8 @@ After you're finished please remove all the comments and instructions!
 ## 🎥 Video <a name="video"></a>
 
 <!-- > Add a link to your video project. -->
+
+- <a href="https://www.loom.com/share/a16ba8549e0d4442850aae552769bb9c">Walkthrough Video</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
