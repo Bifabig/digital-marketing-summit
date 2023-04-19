@@ -97,7 +97,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- > Add a link to your deployed project. -->
 
-- <a href="#">Live Demo</a>
+- <a href="https://bifabig.github.io/digital-marketing-summit/">Live Demo</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -217,6 +217,16 @@ Example:
 - GitHub: [@Bifabig](https://github.com/Bifabig)
 - Twitter: [@biftu94](https://twitter.com/biftu94)
 - LinkedIn: [Biftu Girma](https://www.linkedin.com/in/biftu-girma-3598a8126/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Other_pages]**
+- [ ] **[Booking_system]**
+- [ ] **[Scheduling_system]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
