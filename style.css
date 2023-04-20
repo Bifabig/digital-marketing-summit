@@ -587,7 +587,11 @@ footer .rights {
     text-decoration: none;
   }
 
-  .fa-facebook-f, .fa-twitter{
+  .fa-facebook-f {
+    color: #d3d3d3;
+  }
+
+  .fa-twitter {
     color: #d3d3d3;
   }
 
