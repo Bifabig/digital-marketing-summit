@@ -107,7 +107,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- > Add a link to your video project. -->
 
-- <a href="https://www.loom.com/share/a16ba8549e0d4442850aae552769bb9c">Walkthrough Video</a>
+- <a href="https://www.loom.com/share/9d2f8c8d41344766a1902ecbab50b57f">Walkthrough Video</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

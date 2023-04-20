@@ -587,6 +587,10 @@ footer .rights {
     text-decoration: none;
   }
 
+  .fa-facebook-f, .fa-twitter{
+    color: #d3d3d3;
+  }
+
   .topbar {
     display: flex;
     flex-direction: row;
